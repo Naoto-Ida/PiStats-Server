@@ -1,0 +1,20 @@
+body {
+	padding-top: 50px;
+}
+
+.navbar {
+	background: #E30347 !important;
+}
+
+.navbar-inverse {
+	border-color: #ccc !important;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #fff !important;
+}
+
+.item {
+	width: 50%;
+	float: left;
+}
