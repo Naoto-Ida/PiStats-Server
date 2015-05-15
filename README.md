@@ -3,7 +3,7 @@
 A simple REST API made with Python\'s Flask Framework.
 
 ##Setup
-1. Clone this repository with `git clone https://github.com/Naoto-Ida/PiStats.git` in your Pi.
+1. Clone this repository with `git clone https://github.com/Naoto-Ida/PiStats-Server.git` in your Pi.
 2. `pip install` all the packages in `requirements.txt`
 3. Do `python runserver.py`
 4. In your browser, access your Pi\'s local IP at port 5000(Default basic auth is "rpi").
